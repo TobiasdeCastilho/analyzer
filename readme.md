@@ -1,10 +1,9 @@
 # Analisador léxico e sintático
 
 > [!NOTE]
-> O código neste repositório é uma implementação simples e inicial de um analisador léxico e sintático
-> Foi desenvolvido com intuíto de atender um desafio na disciplina `Conceitos de linguagem de programação`
+> O código neste repositório é uma implementação simples e inicial de um analisador léxico e sintático, e foi desenvolvido com intuíto de atender um desafio na disciplina `Conceitos de linguagem de programação`
 
-# Gerando a build
+# Como compilar o projeto
 
 > [!NOTE]
 > Utilize o shel scrit `build` na pasta raiz, será gerado na pasta `out/` o arquivo `analyzer`
