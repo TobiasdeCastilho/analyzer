@@ -16,7 +16,7 @@
 >
 > - `-f`: Deve ser seguido do arquivo que será analisado
 > - `-o`: Deve ser seguido de um caminho para um arquivo de saída, nele será escrito o lexema extraído do arquivo de entrada
-> - `-s`: Silencia os logs, de forma que a única resposta exibido no `stdout` serão erros
+> - `-s`: Silencia os logs, de forma que a única resposta exibida no `stdout` serão erros
 >
 > ### Argumentos adicionais
 >
