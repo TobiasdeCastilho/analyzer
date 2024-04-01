@@ -14,9 +14,9 @@
 
 > [!NOTE]
 >
-> - `-f`: Deve ser seguido do arquivo que será analisado \!
+> - `-f`: Deve ser seguido do arquivo que será analisado
 > - `-o`: Deve ser seguido de um caminho para um arquivo de saída, nele será escrito o lexema extraído do arquivo de entrada
-> - `-s`: Silencia os logs, de forma que a única resposta exibido no `stout` serão error
+> - `-s`: Silencia os logs, de forma que a única resposta exibido no `stdout` serão erros
 >
 > ### Argumentos adicionais
 >
@@ -24,11 +24,11 @@
 > - `-r`: Exibe a expressão regular que será usada sobre o lexama
 
 ```sh
-analyzer -f \<arquivo\> -o \<arquivo\>.out
+analyzer -f <arquivo\> -o <arquivo>.out
 ```
 
 ```sh
-analyzer -s -f \<arquivo\> -o \<arquivo\>.out
+analyzer -s -f <arquivo> -o <arquivo>.out
 ```
 
 ##
